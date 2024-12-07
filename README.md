@@ -53,8 +53,10 @@ This Python-based application provides real-time currency conversion and visuali
 
 ## Screenshots
 **Screenshot of the Currency Converter interface**
+![image](https://github.com/user-attachments/assets/1d9f4c91-0828-40b3-89a8-17687c6c5d1d)
 
 **Screenshot of the Exchange Rate Trend graph**
+![image](https://github.com/user-attachments/assets/49aa63dd-f222-44e2-8fc3-ba4563448c66)
 
 ## API
 - The application uses ExchangeRate-API to fetch live exchange rates. You can find more details about the API here.
